@@ -1,9 +1,4 @@
-{
-  "meta_title": "Cogoport - Transporters",
-  "meta_description": "Experience steady demand for your services and reduce operational and financial risk with our business solutions.",
-  "meta_keywords": "logistics company, transportation and logistics organizations",
-  
-  
+{ 
   "transporters_title": "与我们一起成长",
   "transporters_heading": "对于运输商",
   "transporters_service1": "获得对您的服务的稳定需求",
@@ -11,9 +6,9 @@
   "transporters_home": "首页",
   "transporters_products": "伙伴 ",
   "transporters_surface": "运输商",
-  "transporters_readyHeading": "Ready to get started?",
-  "transporters_readyDescription": "Learn how Cogoport's supply chain solutions can help you capture greater opportunities.",
-  "transporters_readyCta": "Sign Up",
+  "transporters_readyHeading": "准备好开始了吗？",
+  "transporters_readyDescription": ".了解 Cogoport 的供应链解如何为您带来更多机会。",
+  "transporters_readyCta": "登记",
   "turboCharge_title": "增加收入并扩大您的服务范围",
   "turboCharge_heading1": "稳定的收入以降低风险",
   "turboCharge_heading2": "及时付款以保持强劲的现金流",
@@ -36,15 +31,6 @@
   "sellWith_heading2Option1": "CogoAssured 服务（在特定航线上）可在船舶满载的情况下为您的客户提供确认预订。",
   "sellWith_heading3Option1": "货物和文件的全程跟踪。",
   "sellWith_heading3Option2": "将通知和状态更新发送至您或您的客户的收件箱。",
-  "sellWith_heading3Option3": "专属客户经理为您的高级账户提供电话支持。",
-  
-  "transporters_readyImage": "https://cdn.cogoport.io/cms-prod/cogo_public/vault/original/ready-section.png",
-  "transporters_bannerImage": "https://cdn.cogoport.io/cms-prod/cogo_public/vault/original/domestic-fulfilment.png",
-  "turboCharge_image1": "https://cdn.cogoport.io/cms-prod/cogo_public/vault/original/transporters-revenue.png",
-  "turboCharge_image2": "https://cdn.cogoport.io/cms-prod/cogo_public/vault/original/transporters-cashflow.png",
-  "turboCharge_image3": "https://cdn.cogoport.io/cms-prod/cogo_public/vault/original/transporters-digital.png",
-  "transporters_bannerImageAlt": "trucks loaded with loads",
-  "turboCharge_image1Alt": "thumbs up",
-  "turboCharge_image2Alt": "account payables card",
-  "turboCharge_image3Alt": "shipment card"
+  "sellWith_heading3Option3": "专属客户经理为您的高级账户提供电话支持。"
+
 }
